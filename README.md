@@ -7,3 +7,6 @@
 - Handled multiple roles - Project Lead and Developer. Good communication skills, interpersonal skills, self-motivated, quick learner, team player.
 
 ![Gaurav's Stats](https://github-readme-stats.vercel.app/api?username=gauravkumarsingh232&show_icons=true&include_all_commits=true&theme=buefy)
+
+#### Check out my complete resume 
+https://gauravkumarsingh232.github.io/resume/
